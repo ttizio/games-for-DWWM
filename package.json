@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "sass": "^1.70.0"
+  },
+  "name": "games-for-dwwm",
+  "description": "Bienvenue sur Game for DWWM, le jeu de quiz interactif conçu par trois passionnés en reconversion professionnelle dans le domaine du développement web. Notre objectif est d'aider et de tester les développeurs en herbe, en formation, ou ceux simplement désireux de se mesurer dans un environnement ludique.",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass -w styles/scss/style.scss styles/css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "game for DWWM"
+  },
+  "author": "Adeline, Francois, Virginie",
+  "license": "ISC"
+}
