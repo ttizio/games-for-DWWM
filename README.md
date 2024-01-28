@@ -1,4 +1,4 @@
-# QuizDev - Jeu de Quiz pour Développeurs Web
+# Games for DWWM - Jeu de Quiz pour Développeurs Web
 
 ## Présentation
 
